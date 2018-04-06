@@ -2,7 +2,7 @@
 
 Hi!
 
-Than you for joining the recruitment for Junior Front-end developer at Predictes. 
+Thank you for joining the recruitment for Junior Front-end developer at Predictes. 
 
 Use CodePen, JS Bin or any different platform as playground (create an account and create new pen, once you’re done send us link to your work).
 
