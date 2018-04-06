@@ -2,9 +2,10 @@
 
 Hi!
 
-Than you for joing the recruitment for Junior Front-end developer at Predictes. 
+Than you for joining the recruitment for Junior Front-end developer at Predictes. 
 
 Use CodePen, JS Bin or any different platform as playground (create an account and create new pen, once you’re done send us link to your work).
+
 Please remember that:
 - it should work out of the box (we should click link and be able to use it)
 - we should be able to take a look at your code :)
@@ -14,7 +15,7 @@ Pay attention to code quality, formatting, conventions etc.
 You can find all necessary images and sounds in this repository.
 
 
-## Here are the tasks for you:
+## Here are tasks for you:
 
 ## Task #1
 The task is to prepare a responsive two-level menu based with the provided template.
